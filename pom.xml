@@ -83,6 +83,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>docker-tasklater</finalName>
 	</build>
 
 </project>
